@@ -1,0 +1,37 @@
+/* XPM */
+static char *shade_active[] = {
+/* columns rows colors chars-per-pixel */
+"24 24 7 1 ",
+"  c #000000",
+". c #010101",
+"X c #1f1f1f",
+"o c #373737",
+"O c #3c3c3c",
+"+ c #6e6e6e",
+"@ c #909090",
+/* pixels */
+"XXXXXXXXXXXXXXXXXXXXXXXX",
+"                        ",
+"                        ",
+"                        ",
+"                        ",
+"                        ",
+"                        ",
+"                        ",
+"        O+@@@@+O        ",
+"        +@@@@@ +        ",
+"        @@@@@@+@        ",
+"           oO           ",
+"          o@@O          ",
+"         o@@@@O         ",
+"           @@           ",
+"           @@           ",
+"           ..           ",
+"                        ",
+"                        ",
+"                        ",
+"                        ",
+"                        ",
+"                        ",
+"                        "
+};
